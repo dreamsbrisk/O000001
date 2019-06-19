@@ -16,8 +16,41 @@
 			"world\Fishing_time.mp3"},
 	    pitch = 1.0,
 		volume = 50.0,		
-		--该音乐是由dreamsbrisk@outlook.com原创的音乐，如需转载或者使用请在外协群联系，或者发邮件到dreamsbrisk@outlook.com申请。
-	--The music is original music by dreamsbrisk@outlook.com,If you need to reprint, please contact.
+		--该音乐是由Mumu-xi(梦镜轻灵)原创的音乐，如需转载或者使用请在外协群联系，或者发邮件到dreamsbrisk@outlook.com申请。
+	
+	},
+	--按钮点击音效
+	ButtonPress = {
+
+		samples = {		
+				"Piano\o.wav",
+				"Piano\p.wav",
+				"Piano\q.wav",
+				"Piano\r.wav",
+				"Piano\s.wav",
+				"Piano\t.wav",
+				"Piano\u.wav"},		
+		pitch = 1.0,
+		volume = 100.0,
+		pitch = 1,
+		pitchRandomize = 0.0,
+		
+	},
+    -- 按钮悬停音效
+	ButtonHover = {
+
+		samples = {		
+				"Piano\o.wav",
+				"Piano\p.wav",
+				"Piano\q.wav",
+				"Piano\r.wav",
+				"Piano\s.wav",
+				"Piano\t.wav",
+				"Piano\u.wav"},
+		pitch = 1.0,
+		volume = 100.0,		
+		pitchRandomize = 0.0,
+		
 	},
 
 	--大炮音效
