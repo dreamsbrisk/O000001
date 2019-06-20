@@ -5,15 +5,21 @@ With this mod, you will hear randomly generated music in the game!
 Currently only a test version. I will upload it to steam soon.
 However, I am very busy. May have to... 1 year?
 
+If you need other sound modes, such as violin, electronic music, etc. Please comment on the message
+
 Reproduction is forbidden!（If you need to reprint, please contact）
 My English is very bad, if you have any questions, please contact me.
 Email: dreamsbrisk@outlook.com
 Or you can find me in the AMINO community (search for reassembly)
      --dreamsbrisk
 
+
+
 这是一个强大的MOD。
 厌倦了不断循环的原版音乐了么？
 使用这个MOD，你将在游戏内听到随机生成的音乐！
+
+如果需要其他的声音模式，比如小提琴，电子乐等。请评论留言
 
 目前只是测试版本。我将在不久之后上传到steam。
 不过，我很忙。可能要过...1年？
