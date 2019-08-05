@@ -1,0 +1,1 @@
+kGameName = "MUMU^4 XI"
