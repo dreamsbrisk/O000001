@@ -32,7 +32,8 @@
 			"Piano\g.wav"
 	},
 		pitch = 1.0,
-		volume = 100.0,			
+		volume = 100.0,		
+		priority = 2,			
 	},
 	Launcher ={
 	-- 发射导弹/无人机/鱼雷等的音效。
@@ -46,6 +47,7 @@
 			"Piano\n.wav"},
 		pitch = 1.0,
 		volume = 100.0,		
+		priority = 3,	
 	},
 	Cannon = { 
 	-- 中型炮弹音效，音高与炮弹尺寸有关，与游戏核心代码相关。 约30点伤害
@@ -59,6 +61,7 @@
 				"Piano\u.wav"},
 		pitch = 1.0,
 		volume = 100.0,		
+		priority = 2,	
 	},
 	--小炮音效
 	CannonSmall = {
@@ -72,15 +75,17 @@
 			"Piano\n.wav"
 	},
 		pitch = 1.0,
-		volume = 100.0,			
+		volume = 100.0,	
+		priority = 1,		
 	},
-		--激光音效
-	Laser = {
+		--死亡音效
+	Death = {
 	  samples = {		
 	"undertale\5.ogg"
 	},
 		pitch = 1.0,
-		volume = 100.0,			
+		volume = 100.0,	
+		priority = 1,			
 	},
 	Explosion = {
 	samples = {
