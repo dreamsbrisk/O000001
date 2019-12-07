@@ -23,13 +23,7 @@
 	--大炮音效
 	CannonLarge = {
 	  samples = {		
-			"Piano\a.wav",
-			"Piano\b.wav",
-			"Piano\c.wav",
-			"Piano\d.wav",
-			"Piano\e.wav",
-			"Piano\f.wav",
-			"Piano\g.wav"
+	"undertale\1.ogg"
 	},
 		pitch = 1.0,
 		volume = 100.0,			
@@ -37,39 +31,21 @@
 	Launcher ={
 	-- 发射导弹/无人机/鱼雷等的音效。
 		samples = {		
-			"Piano\h.wav",
-			"Piano\i.wav",
-			"Piano\j.wav",
-			"Piano\k.wav",
-			"Piano\l.wav",
-			"Piano\m.wav",
-			"Piano\n.wav"},
+	"undertale\2.ogg"},
 		pitch = 1.0,
 		volume = 100.0,		
 	},
 	Cannon = { 
 	-- 中型炮弹音效，音高与炮弹尺寸有关，与游戏核心代码相关。 约30点伤害
 		samples = {		
-				"Piano\o.wav",
-				"Piano\p.wav",
-				"Piano\q.wav",
-				"Piano\r.wav",
-				"Piano\s.wav",
-				"Piano\t.wav",
-				"Piano\u.wav"},
+	"undertale\3.ogg"},
 		pitch = 1.0,
 		volume = 100.0,		
 	},
 	--小炮音效
 	CannonSmall = {
 	  samples = {		
-			"Piano\h.wav",
-			"Piano\i.wav",
-			"Piano\j.wav",
-			"Piano\k.wav",
-			"Piano\l.wav",
-			"Piano\m.wav",
-			"Piano\n.wav"
+	"undertale\4.ogg"
 	},
 		pitch = 1.0,
 		volume = 100.0,			

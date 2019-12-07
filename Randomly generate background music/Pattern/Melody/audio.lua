@@ -98,13 +98,9 @@
 	ButtonPress = {
 		samples =
 		{
-			"Piano\h.wav",
-			"Piano\i.wav",
-			"Piano\j.wav",
-			"Piano\k.wav",
-			"Piano\l.wav",
-			"Piano\m.wav",
-			"Piano\n.wav"
+			"42\C5.ogg",
+			"42\D5.ogg",
+			"42\E5.ogg"
 		},
 		pitch = 1,
 		pitchRandomize = 0.0,
@@ -114,14 +110,9 @@
 	ButtonHover = {
 		samples =
 		{
-			"Piano\h.wav",
-			"Piano\i.wav",
-			"Piano\j.wav",
-			"Piano\k.wav",
-			"Piano\l.wav",
-			"Piano\m.wav",
-			"Piano\n.wav"
-
+			"42\C5.ogg",
+			"42\D5.ogg",
+			"42\E5.ogg"
 		},
 		pitchRandomize = 0.0,
 		volume = 0.15,
