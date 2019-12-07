@@ -1,3 +1,4 @@
+MOD name:MUMU-XI
 This is a powerful mod.
 Tired of the original music that is constantly circulating?
 With this mod, you will hear randomly generated music in the game!
@@ -5,27 +6,28 @@ With this mod, you will hear randomly generated music in the game!
 Currently only a test version. I will upload it to steam soon.
 However, I am very busy. May have to... 1 year?
 
-Reproduction is forbidden!£¨If you need to reprint, please contact£©
+Reproduction is forbidden!ï¼ˆIf you need to reprint, please contactï¼‰
 My English is very bad, if you have any questions, please contact me.
 Email: dreamsbrisk@outlook.com
 Or you can find me in the AMINO community (search for reassembly)
      --dreamsbrisk
 
-ÕâÊÇÒ»¸öÇ¿´óµÄMOD¡£
-Ñá¾ëÁË²»¶ÏÑ­»·µÄÔ­°æÒôÀÖÁËÃ´£¿
-Ê¹ÓÃÕâ¸öMOD£¬Äã½«ÔÚÓÎÏ·ÄÚÌıµ½Ëæ»úÉú³ÉµÄÒôÀÖ£¡
+MODåç§°ï¼šMUMU-XI
+è¿™æ˜¯ä¸€ä¸ªå¼ºå¤§çš„MODã€‚
+åŒå€¦äº†ä¸æ–­å¾ªç¯çš„åŸç‰ˆéŸ³ä¹äº†ä¹ˆï¼Ÿ
+ä½¿ç”¨è¿™ä¸ªMODï¼Œä½ å°†åœ¨æ¸¸æˆå†…å¬åˆ°éšæœºç”Ÿæˆçš„éŸ³ä¹ï¼
 
-Ä¿Ç°Ö»ÊÇ²âÊÔ°æ±¾¡£ÎÒ½«ÔÚ²»¾ÃÖ®ºóÉÏ´«µ½steam¡£
-²»¹ı£¬ÎÒºÜÃ¦¡£¿ÉÄÜÒª¹ı...1Äê£¿
+ç›®å‰åªæ˜¯æµ‹è¯•ç‰ˆæœ¬ã€‚æˆ‘å°†åœ¨ä¸ä¹…ä¹‹åä¸Šä¼ åˆ°steamã€‚
+ä¸è¿‡ï¼Œæˆ‘å¾ˆå¿™ã€‚å¯èƒ½è¦è¿‡...1å¹´ï¼Ÿ
 
-½ûÖ¹×ªÔØ£¡
-ÎÒµÄÓ¢ÓïºÜÔã¸â£¬Èç¹ûÄãÓĞÈÎºÎÒÉÎÊ£¬ÇëÁªÏµÎÒ¡£
-ÓÊÏä£ºdreamsbrisk@outlook.com
-QQ£º1668751881
+ç¦æ­¢è½¬è½½ï¼
+æˆ‘çš„è‹±è¯­å¾ˆç³Ÿç³•ï¼Œå¦‚æœä½ æœ‰ä»»ä½•ç–‘é—®ï¼Œè¯·è”ç³»æˆ‘ã€‚
+é‚®ç®±ï¼šdreamsbrisk@outlook.com
+QQï¼š1668751881
 
-»òÕß£¬Äã¿ÉÒÔÔÚAMINOÉçÇøÀ´ÕÒÎÒ£¨ËÑË÷reassembly
+æˆ–è€…ï¼Œä½ å¯ä»¥åœ¨AMINOç¤¾åŒºæ¥æ‰¾æˆ‘ï¼ˆæœç´¢reassembly
 
-ÈçĞè×ªÔØÇëÁªÏµ
+å¦‚éœ€è½¬è½½è¯·è”ç³»
 
 
 -2019.8.6
